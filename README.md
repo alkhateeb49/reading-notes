@@ -28,14 +28,14 @@ As man carries multi background in multiple fields Programming,  I’m proficien
 
 
 # Table of content for Code 102:
-- [Read01](https://alkhateeb49.github.io/reading-notes/read01)
-- [Read02](https://alkhateeb49.github.io/reading-notes/read02)
-- [Read03](https://alkhateeb49.github.io/reading-notes/read03)
-- [Read04](https://alkhateeb49.github.io/reading-notes/read04)
-- [Read05](https://alkhateeb49.github.io/reading-notes/read05)
-- [Read06](https://alkhateeb49.github.io/reading-notes/read06b)
-- [Read07](https://alkhateeb49.github.io/reading-notes/read07)
-- [Read08](https://alkhateeb49.github.io/reading-notes/read08)
+- [Read01](https://alkhateeb49.github.io/reading-notes-102/read01)
+- [Read02](https://alkhateeb49.github.io/reading-notes-102/read02)
+- [Read03](https://alkhateeb49.github.io/reading-notes-102/read03)
+- [Read04](https://alkhateeb49.github.io/reading-notes-102/read04)
+- [Read05](https://alkhateeb49.github.io/reading-notes-102/read05)
+- [Read06](https://alkhateeb49.github.io/reading-notes-102/read06b)
+- [Read07](https://alkhateeb49.github.io/reading-notes-102/read07)
+- [Read08](https://alkhateeb49.github.io/reading-notes-102/read08)
 
 # Table of content for Code 201:
 * [Class 01](https://alkhateeb49.github.io/reading-notes-201/class-01)
