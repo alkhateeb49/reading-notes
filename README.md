@@ -20,10 +20,10 @@ As man carries multi background in multiple fields Programming,  I’m proficien
 - Phone: 0797000587
 - Email: Mohamadalkhateeb49@yahoo.com
 
-## [Code 102 - Intro to Software Development](102)
-## [Code 201 - Foundations of Software Development](201)
-## [Code 301 - Intermediate Software Development](301)
-## [Code 401 - Advanced Software Development](401)
+## [Code 102 - Intro to Software Development](https://alkhateeb49.github.io/reading-notes-102)
+## [Code 201 - Foundations of Software Development](https://alkhateeb49.github.io/reading-notes-201)
+## [Code 301 - Intermediate Software Development](https://alkhateeb49.github.io/reading-notes-301)
+## [Code 401 - Advanced Software Development](https://alkhateeb49.github.io/reading-notes-401)
 
 
 
